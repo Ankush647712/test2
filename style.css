@@ -1,0 +1,25 @@
+h1, h2 {
+    color: black;
+    margin: 0;
+}
+
+#intro {
+    background-color: rgb(230, 237, 180);
+    color: black;
+    padding: 10px;
+    border-style: dashed;
+}
+
+.special {
+    color: black;
+}
+
+footer p {
+    font-size: 0.8em;
+}
+#new{
+    background-color: rgb(71, 150, 170);
+}
+#new1, #new2, #new3{
+    background-color: white;
+}
